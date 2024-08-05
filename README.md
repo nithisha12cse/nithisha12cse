@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithisha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-- 👨‍💻 All of my projects are available at [https://66b0dc4c0e9243f75def3f72--cool-cucurucho-dabf77.netlify.app/](https://66b0dc4c0e9243f75def3f72--cool-cucurucho-dabf77.netlify.app/)
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 - 💬 Ask me about **React,Node,Java,SQL,DSA**
 
